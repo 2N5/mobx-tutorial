@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mobx-tutorial/static/css/main.6c636620.chunk.css",
+    "main.js": "/mobx-tutorial/static/js/main.5024f00d.chunk.js",
+    "main.js.map": "/mobx-tutorial/static/js/main.5024f00d.chunk.js.map",
+    "runtime-main.js": "/mobx-tutorial/static/js/runtime-main.b896bb78.js",
+    "runtime-main.js.map": "/mobx-tutorial/static/js/runtime-main.b896bb78.js.map",
+    "static/js/2.7fa9c95c.chunk.js": "/mobx-tutorial/static/js/2.7fa9c95c.chunk.js",
+    "static/js/2.7fa9c95c.chunk.js.map": "/mobx-tutorial/static/js/2.7fa9c95c.chunk.js.map",
+    "index.html": "/mobx-tutorial/index.html",
+    "static/css/main.6c636620.chunk.css.map": "/mobx-tutorial/static/css/main.6c636620.chunk.css.map",
+    "static/js/2.7fa9c95c.chunk.js.LICENSE.txt": "/mobx-tutorial/static/js/2.7fa9c95c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b896bb78.js",
+    "static/js/2.7fa9c95c.chunk.js",
+    "static/css/main.6c636620.chunk.css",
+    "static/js/main.5024f00d.chunk.js"
+  ]
+}
