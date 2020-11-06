@@ -1,9 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import TodoList from './todo/TodoList';
 import './index.css';
 
-const App = () => {
-  return <h1>test</h1>;
-};
-
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<TodoList />, document.getElementById('root'));
